@@ -1,0 +1,36 @@
+Variable,Description,Source
+WKT,Geometry (Well Known Text),
+index,index,
+GEOID10,GEOID/FIPS Code,
+mhi,Median Household Income,ACS
+nonwhite_p,% Population that is Non-White and/or Non-Hispanic/Latino,ACS
+renter_p,% Households that are renter-occupied,ACS
+pre1980_housing,% Housing built before 1980,ACS
+pre1950_housing,% Housing built before 1950,ACS
+child_u5_p,% Population who are children under 5,ACS
+child_pov_p,% Children <18 Under Federal Povery Line,ACS
+lapophalfshare,Share of tract population that are beyond 1/2 mile from supermarket,FARA
+smelters,Total historical smelters,O'Shea
+smelters_dens,Density of historical smelters per sq. km,O'Shea
+total_lr_sites,Total land remediation sites,PADEP
+lr_site_dens,Land remediation sites per sq. km,PADEP
+area_tract,Tract Area (sq. Km),
+permit_demos,\# Demolition by permit,ODP
+violation_demos,\# Demolitions due to violations,ODP
+total_demos,Total demolitions,ODP
+demos_per_parcel,Density of demolitions by permit per parcel,ODP
+tot_parcels,Total # Parcels,ODP
+res_area_p,% Area with residential land use,ODP
+ind_area_p,% Area with industrial land use,ODP
+park_open_area_p,% Area with park/open space land use,ODP
+vacantp,% parcels that are vacant,ODP
+tot_li_vio,Total Relevant L&I Violations,ODP
+li_vio_per_parcel,Denisty of Relevant L& Violations per parcel,ODP
+rental_licenses,Total rental licenses,ODP
+licenses_per_renter,Rental licenses per renter,ODP
+data_redacted,Is ebll data redacted? (Due to low # children with EBLL),ODP
+num_bll_5plus,\# Children <5 with blood lead levels > 5ug/ml (2013-2015),ODP
+num_screen,\# Children <5 screened  (2013-2015),ODP
+perc_5plus,% Children <5 with blood lead levels > 5ug/ml (2013-2015),ODP
+perc_screened,% Children <5 screened,ODP
+soilpb_mean,Average interpolated soil lead levels,Drexel
